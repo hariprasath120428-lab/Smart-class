@@ -1,0 +1,6 @@
+{
+  "name": "Smart Motion Fan Controller",
+  "description": "Arduino PIR Motion Sensor & Relay Smart Fan Controller Simulator, Wiring Guide, Serial Monitor & Customizable C++ Code Generator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
